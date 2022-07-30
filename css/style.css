@@ -91,7 +91,13 @@ p {
     color: rgb(22, 4, 138);
     font-size: 30px;
     text-align: left;
-    font-weight: bold;}
+    font-weight: bold;
+}
+
+/*---animacion---*/
+.menu ul li a:hover {
+    color: white;
+}
 
 
 /*----MAIN---*/
@@ -135,7 +141,8 @@ p {
         background-color: white; 
         
 }
-        
+ 
+
 .principal .unidades h2 {
     padding: 10px;
     font-size: 25px;
@@ -162,6 +169,19 @@ p {
     justify-content: center;
 
 }  
+
+/*---ANIMACIONES---*/
+.principal .unidades div a:hover {
+    background-color: #03989E;
+    text-decoration: none;
+    padding: 3px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    margin-top: 10px;
+    border-radius: 5px 5px;
+    justify-content: center;
+
+}
 
 /*----ASIDE ---*/
 .welcome {
