@@ -70,7 +70,7 @@ p {
 .encabezado {
     background-color: #03BCC4;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
 }
 .encabezado img {
